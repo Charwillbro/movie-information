@@ -13,6 +13,7 @@ class MoviePreview extends Component {
                         onClick={() => setCurrentMovieFunction(movie)}
                     >
                         <p>{movie.title}</p>
+                        <p>Rating: {movie.rating}</p>
                         <p>{movie.releaseYear}</p>
                         <img
                             alt={movie.title}
