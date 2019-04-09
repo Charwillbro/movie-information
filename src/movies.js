@@ -123,7 +123,7 @@ export const movies = [
         "title": "Ink",
         "description": "A mysterious creature, known as Ink, steals a child's soul in hopes of using it as a bargaining chip to join the Incubi - the group of supernatural beings responsible for creating nightmares.",
         "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjIyNzE4NjUwM15BMl5BanBnXkFtZTcwMzUyODg5Mg@@._V1_.jpg",
-        "rating": 8.8,
+        "rating": 7.0,
         "director": "Jamin Winans",
         "releaseYear": 2009,
         "categories": [
